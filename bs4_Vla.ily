@@ -12,7 +12,7 @@ violaOne = \new Voice {
   d2 d4 g,
   c2 b4 c
 
-  f2 e4 c
+  a2 g4 c
   d4 e8 f e4 c
   d2 c4 g
   d'4 e8 f e4 d
@@ -36,7 +36,7 @@ violaOne = \new Voice {
   d2 c4 g'
   d'4 e8 f e4 d
   ~d4 e8 f e4 d
-  ~d4 e8 f d4 b
+  ~d4 e8 f e4 b
   c2 a
 
   g4 d8 e f4 g8 d
@@ -65,7 +65,7 @@ violaTwo = \new Voice {
   f2 e
   g c
   b g
-  g2. bes4
+  b2. bes4
   a2. a4
   gis2 a4 gis
 
@@ -90,8 +90,8 @@ violaTwo = \new Voice {
   a2 f
 
   b,4 g a b
-  c4 c a a
-  ~a4 f'8 e d4 e
+  c4 c g g
+  ~g4 f'8 e d4 e
   f2 g
   e2 ~e8 r r4
 
