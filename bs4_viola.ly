@@ -3,16 +3,16 @@
 global= {
   \time 4/4
   \key c \major
-  \tempo 4=148
+  %\tempo 4=148
 }
 
-\include "V_afcu_Vla.ily"
+\include "bs4_Vla.ily"
 
 
 \header {
-  title = "Suite Afrocubana"
-  instrument = "Viola"
-  composer = "Freddy Vilches Meneses"
+  title = "Symphony No. 1 in C Minor"
+  instrument = "Fourth Movement Theme"
+  composer = "Johannes Brahms"
   %arranger = "Arr. Dan Arbogast"
   tagline = ""
 }
@@ -40,11 +40,10 @@ global= {
 \include "naturalizeMusic.ily"
 
 \score {
-  %\naturalizeMusic \transpose aes f {
   \new StaffGroup <<
-    \new Staff << \global \viola >>
+    \new Staff << \global \violaOne >>
+    \new Staff << \global \violaTwo >>
   >>
-  %}
   \layout { }
   \midi { }
 }
