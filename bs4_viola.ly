@@ -11,7 +11,7 @@ global= {
 
 \header {
   title = "Symphony No. 1 in C Minor"
-  instrument = "Fourth Movement Theme"
+  instrument = "Fourth Movement Theme (Viola)"
   composer = "Johannes Brahms"
   %arranger = "Arr. Dan Arbogast"
   tagline = ""
