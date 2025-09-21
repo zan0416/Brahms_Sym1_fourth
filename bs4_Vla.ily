@@ -12,6 +12,13 @@ violaOne = \new Voice {
     d2 d4 g,
     c2 b4 c
 
+    f2 e4 c
+    d4 e8 f e4 c
+    d2 c4 g
+    d'4 e8 f e4 d
+    ~d4 e8 f e4 d
+    ~d4 e8 f e4 b
+
   \bar "|."
 
   }
@@ -29,6 +36,12 @@ violaTwo = \new Voice {
     b2 b
     e,2 g
 
+    f2 e
+    g c
+    b g
+    g2. bes4
+    a2. a4
+    gis2 a4 gis
 
 
   \bar "|."
